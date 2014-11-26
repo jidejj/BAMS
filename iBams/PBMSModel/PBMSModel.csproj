@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DFF24D93-6891-423B-8B1B-82A0D051DA86}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PBMSModel</RootNamespace>
+    <AssemblyName>PBMSModel</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v14.1" />
+    <Reference Include="DevExpress.Data.v14.1" />
+    <Reference Include="DevExpress.Utils.v14.1" />
+    <Reference Include="DevExpress.Sparkline.v14.1.Core" />
+    <Reference Include="DevExpress.Xpo.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v14.1" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PBMSModelCode\BenefitType.cs" />
+    <Compile Include="PBMSModelCode\BenefitType.Designer.cs">
+      <DependentUpon>BenefitType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PBMSModelCode\ConnectionHelper.cs" />
+    <Compile Include="PBMSModelCode\DoucmentMaster.cs" />
+    <Compile Include="PBMSModelCode\DoucmentMaster.Designer.cs">
+      <DependentUpon>DoucmentMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PBMSModelCode\EmployerCode.cs" />
+    <Compile Include="PBMSModelCode\EmployerCode.Designer.cs">
+      <DependentUpon>EmployerCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PBMSModelCode\Request4BenefitDocs.cs" />
+    <Compile Include="PBMSModelCode\Request4BenefitDocs.Designer.cs">
+      <DependentUpon>Request4BenefitDocs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PBMSModelCode\Request4BenefitMaster.cs" />
+    <Compile Include="PBMSModelCode\Request4BenefitMaster.Designer.cs">
+      <DependentUpon>Request4BenefitMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PBMSModelCode\Request4BenefitMaster_New.cs" />
+    <Compile Include="PBMSModelCode\Request4BenefitMaster_New.Designer.cs">
+      <DependentUpon>Request4BenefitMaster_New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PBMSModelCode\RSAMaster.cs" />
+    <Compile Include="PBMSModelCode\RSAMaster.Designer.cs">
+      <DependentUpon>RSAMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PBMSModelCode\state.cs" />
+    <Compile Include="PBMSModelCode\state.Designer.cs">
+      <DependentUpon>state.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PBMSModelCode\StateLocalGov.cs" />
+    <Compile Include="PBMSModelCode\StateLocalGov.Designer.cs">
+      <DependentUpon>StateLocalGov.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PBMSModelCode\sysdiagrams.cs" />
+    <Compile Include="PBMSModelCode\sysdiagrams.Designer.cs">
+      <DependentUpon>sysdiagrams.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecureModelCode\AppList.cs" />
+    <Compile Include="SecureModelCode\AppList.Designer.cs">
+      <DependentUpon>AppList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecureModelCode\ButtonApproval.cs" />
+    <Compile Include="SecureModelCode\ButtonApproval.Designer.cs">
+      <DependentUpon>ButtonApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecureModelCode\ConnectionHelper.cs" />
+    <Compile Include="SecureModelCode\ControlApproval.cs" />
+    <Compile Include="SecureModelCode\ControlApproval.Designer.cs">
+      <DependentUpon>ControlApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecureModelCode\ControlResources.cs" />
+    <Compile Include="SecureModelCode\ControlResources.Designer.cs">
+      <DependentUpon>ControlResources.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecureModelCode\ControlType.cs" />
+    <Compile Include="SecureModelCode\ControlType.Designer.cs">
+      <DependentUpon>ControlType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecureModelCode\DefaultResources.cs" />
+    <Compile Include="SecureModelCode\DefaultResources.Designer.cs">
+      <DependentUpon>DefaultResources.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecureModelCode\LangDictionary.cs" />
+    <Compile Include="SecureModelCode\LangDictionary.Designer.cs">
+      <DependentUpon>LangDictionary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecureModelCode\LoginAttempts.cs" />
+    <Compile Include="SecureModelCode\LoginAttempts.Designer.cs">
+      <DependentUpon>LoginAttempts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecureModelCode\PasswordLogs.cs" />
+    <Compile Include="SecureModelCode\PasswordLogs.Designer.cs">
+      <DependentUpon>PasswordLogs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecureModelCode\Preferences.cs" />
+    <Compile Include="SecureModelCode\Preferences.Designer.cs">
+      <DependentUpon>Preferences.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecureModelCode\UserGroup.cs" />
+    <Compile Include="SecureModelCode\UserGroup.Designer.cs">
+      <DependentUpon>UserGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecureModelCode\Users.cs" />
+    <Compile Include="SecureModelCode\Users.Designer.cs">
+      <DependentUpon>Users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecureModelCode\WorkPeriod.cs" />
+    <Compile Include="SecureModelCode\WorkPeriod.Designer.cs">
+      <DependentUpon>WorkPeriod.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="PBMSModel.xpo" />
+    <None Include="PBMSModel.xpo.diagram">
+      <DependentUpon>PBMSModel.xpo</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SecureModel.xpo" />
+    <None Include="SecureModel.xpo.diagram">
+      <DependentUpon>SecureModel.xpo</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

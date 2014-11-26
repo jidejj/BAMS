@@ -1,0 +1,5 @@
+DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraLayout.LayoutControl, DevExpress.XtraLayout.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpo.XPCollection, DevExpress.Xpo.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpo.Session, DevExpress.Xpo.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+Dynamsoft.DotNet.TWAIN.DynamicDotNetTwain, DynamicDotNetTWAIN, Version=5.3.0.0, Culture=neutral, PublicKeyToken=298ad97013b423eb

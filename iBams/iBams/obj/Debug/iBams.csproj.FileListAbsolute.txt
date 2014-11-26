@@ -1,0 +1,46 @@
+C:\Users\HP\documents\visual studio 2013\Projects\iBams\iBams\bin\Debug\iBams.exe
+C:\Users\HP\documents\visual studio 2013\Projects\iBams\iBams\bin\Debug\iBams.pdb
+C:\Users\HP\documents\visual studio 2013\Projects\iBams\iBams\bin\Debug\PBMSModel.exe
+C:\Users\HP\documents\visual studio 2013\Projects\iBams\iBams\bin\Debug\PBMSModel.pdb
+C:\Users\HP\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.MDIparent.resources
+C:\Users\HP\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.MyPage.resources
+C:\Users\HP\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.exe.licenses
+C:\Users\HP\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.exe
+C:\Users\HP\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.pdb
+C:\Users\Odejimi\Documents\iBams\iBams\obj\Debug\iBams.exe
+C:\Users\Odejimi\Documents\iBams\iBams\obj\Debug\iBams.pdb
+C:\Users\Odejimi\Documents\iBams\iBams\bin\Debug\iBams.exe
+C:\Users\Odejimi\Documents\iBams\iBams\bin\Debug\iBams.pdb
+C:\Users\Odejimi\Documents\iBams\iBams\bin\Debug\PBMSModel.exe
+C:\Users\Odejimi\Documents\iBams\iBams\bin\Debug\PBMSModel.pdb
+C:\Users\Odejimi\Documents\iBams\iBams\obj\Debug\iBams.csprojResolveAssemblyReference.cache
+C:\Users\Odejimi\Documents\iBams\iBams\obj\Debug\iBams.MDIparent.resources
+C:\Users\Odejimi\Documents\iBams\iBams\obj\Debug\iBams.MyPage.resources
+C:\Users\Odejimi\Documents\iBams\iBams\obj\Debug\iBams.Properties.Resources.resources
+C:\Users\Odejimi\Documents\iBams\iBams\obj\Debug\iBams.csproj.GenerateResource.Cache
+C:\Users\Odejimi\Documents\iBams\iBams\obj\Debug\iBams.exe.licenses
+C:\Users\Odejimi\Documents\iBams\iBams\obj\Debug\iBams.WaitForm1.resources
+C:\Users\Odejimi\Documents\iBams\iBams\bin\Debug\DynamicDotNetTWAIN.dll
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.csprojResolveAssemblyReference.cache
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.BrowseDocument.resources
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.MDIparent.resources
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.MyPage.resources
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.Properties.Resources.resources
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.WaitForm1.resources
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.csproj.GenerateResource.Cache
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.exe.licenses
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\bin\Debug\iBams.exe
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\bin\Debug\iBams.pdb
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\bin\Debug\PBMSModel.exe
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\bin\Debug\PBMSModel.pdb
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.exe
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.pdb
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.SplashScreen1.resources
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.Home.resources
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.ChangePassword.resources
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.Login.resources
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\bin\Debug\iBams.exe.config
+C:\Users\Simplex\documents\visual studio 2013\Projects\iBams\iBams\obj\Debug\iBams.ResetPassword.resources
